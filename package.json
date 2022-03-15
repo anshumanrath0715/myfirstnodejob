@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1"
+  },
+  "name": "myfirstnodejob",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshumanrath0715/myfirstnodejob.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anshumanrath0715/myfirstnodejob/issues"
+  },
+  "homepage": "https://github.com/anshumanrath0715/myfirstnodejob#readme"
+}
